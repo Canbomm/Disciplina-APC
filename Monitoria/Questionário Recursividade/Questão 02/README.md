@@ -1,0 +1,3 @@
+Para programar existem alguns requisitos que nossos códigos devem atender independente do problema. Para isso, algumas perguntas podem ser feitas durante a implementação de um programa, conforme demonstra o guia abaixo. Sua tarefa é implementar um programa que ajude os programadores a avaliarem seus códigos da mesma forma que o guia. A figura apresenta a ordem das perguntas que deverão ser feitas.
+
+![Histograma com algumas perguntas e respostas](https://i.imgur.com/3ORKWAO.png "Histograma perguntas e respostas")

@@ -1,0 +1,1 @@
+Leia uma string s, que representa o nome de um arquivo. O conteúdo do arquivo contém 3 linhas: a primeira e última linha são números e a linha do meio é um dos 5 seguintes caracteres {+, -, *, /, %}. Abra o arquivo e imprima o resultado de a op b em que a é o número da primeira linha, b é o número da última linha e op é a operação da segunda linha. 

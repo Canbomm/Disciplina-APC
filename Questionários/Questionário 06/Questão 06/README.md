@@ -1,0 +1,1 @@
+Codifique um programa que leia um número inteiro e crie um novo número em ordem reversa a do fornecido. Por exemplo, se a entrada for 7395 a saída será 5937. Em caso de valores negativos, deve-se preservar o sinal.

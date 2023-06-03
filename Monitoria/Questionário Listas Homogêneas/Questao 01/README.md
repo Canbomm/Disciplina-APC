@@ -1,0 +1,1 @@
+Os professores de APC comumente realizam a chamada em ordem alfabética, entretanto, os alunos que ficam no final da chamada gostariam de ser os primeiros a serem  chamados de vez em quando. Nesse sentido, os professores pediram a sua ajuda para elaborar um programa que recebe os nomes dos alunos de uma turma e os organiza em ordem alfabética inversa.

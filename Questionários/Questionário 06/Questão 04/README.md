@@ -1,0 +1,1 @@
+Leia um inteiro n, enquanto n for positivo, imprima "estou dentro de um loop while ou em uma recursao?" e decremente o n em 1.

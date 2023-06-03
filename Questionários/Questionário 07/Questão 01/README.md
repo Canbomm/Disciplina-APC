@@ -1,0 +1,1 @@
+Que o cara é um maluco do pedaço todo mundo sabe, mas você já se perguntou qual pedaço? Leia uma cadeia de caracteres correspondendo ao mapa onde Will está morando, e dois inteiros i e j e imprima o pedaço em que ele mora (ele mora no intervalo de i até j inclusive).

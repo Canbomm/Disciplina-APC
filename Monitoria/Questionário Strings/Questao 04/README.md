@@ -1,0 +1,1 @@
+Elabore um programa que recebe uma string e retorna os caracteres contidos nos índices ímpares dessa string, ignorando os espaços em branco. Mostre os caracteres um ao lado do outro numa mesma linha, sem espaços.

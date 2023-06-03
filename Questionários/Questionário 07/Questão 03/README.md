@@ -1,0 +1,1 @@
+Sim, o Kpop dominou o mundo, tanto que estamos recebendo para fazer essa questão (recebendo amor e carinho apenas). Leia duas strings, a banda de kpop s e outra string t que é o nome de todas as bandas que irão tocar no Rock in Rio concatenadas e diga se a banda s irá se apresentar na RIR.

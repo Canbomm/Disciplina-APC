@@ -1,0 +1,1 @@
+A resposta de tudo. Mas qual a pergunta? Bom nesse caso a pergunta é se a soma de algum par de números em um vetor resulta em 42... e a resposta é sim ou não.

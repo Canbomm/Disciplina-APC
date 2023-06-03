@@ -1,0 +1,1 @@
+Escreva uma função booleana chamada confere que recebe o mês e ano atual ( m1,a1) e o mês e ano de vencimento de um cartão de crédito  (m2,a2 ) e retorna True caso o cartão já tenha vencido ou False caso contrário.

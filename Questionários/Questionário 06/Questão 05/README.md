@@ -1,0 +1,1 @@
+Um dia o rei Deivis viu uma criança passando fome na rua, ficou horrorizado e decidiu que nunca mais queria ver aquilo na vida dele. Por isso, ele decretou que todos os cidadãos do reino deveriam ter no mínimo 1000 de dinheiro. Mas Deivis só pode dar dinheiro, não tirar dos outros. Qual é a quantia mínima de dinheiro a ser gasta para que isso seja realizado?

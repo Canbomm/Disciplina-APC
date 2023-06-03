@@ -1,0 +1,1 @@
+Mei é viciada em twitter e de vez em quando gosta de fazer uns mistérios nas mensagens que deixa por lá, ela faz isso censurando uma palavra do texto utilizando um asterisco "*". Elabore um programa que recebe como entrada um tweet de Mei e a palavra a ser censurada, caso a palavra a ser censurada esteja no tweet, imprima-o com a censura, caso contrário imprima "tudo certo :)". 

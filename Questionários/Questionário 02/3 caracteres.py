@@ -1,0 +1,10 @@
+valor1 = input()
+valor2 = input()
+valor3 = input()
+
+print(valor1,valor2,valor3,sep="")
+print(valor1)
+print(valor2*2)
+print(valor3,valor3,valor3)
+print("X == ",valor1,","," Y == ",valor2,","," Z == ",valor3,sep="")
+print("X != ",valor2,","," Y != ",valor1,","," Z == ",valor3,sep="")

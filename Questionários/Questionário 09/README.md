@@ -1,0 +1,1 @@
+**Exercícios retirados do Questionário sobre "Dicionários e Tuplas" 2022**

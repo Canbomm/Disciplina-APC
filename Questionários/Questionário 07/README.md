@@ -1,0 +1,1 @@
+**Exercícios retirados do Questionário sobre "Strings" 2022**

@@ -1,0 +1,1 @@
+Leu o título e achou que o problema ia ser difícil? Pois achou errado. Leia um inteiro n e imprima n vezes a frase "O impossivel so e impossivel quando nao acreditamos mais no possivel :bless:".

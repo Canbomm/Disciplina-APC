@@ -1,0 +1,1 @@
+**Exercícios retirados do Questionário sobre "Listas" 2022**
