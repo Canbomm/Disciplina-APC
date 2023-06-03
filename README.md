@@ -1,6 +1,6 @@
 ### APC
 
-Códigos desenvolvidos na disciplina de APC (Algoritmos e Programação de Computadores) no meu primeiro semestre da UnB.
+Códigos desenvolvidos na disciplina de APC (Algoritmos e Programação de Computadores) no meu primeiro semestre da UnB, com exceção da pasta de Monitoria, que eu fui desenvolvendo enquanto dava monitoria de APC no meu segundo semestre.
 
 Foram meus primeiros códigos desenvolvidos, então não espere muita coisa.
 
